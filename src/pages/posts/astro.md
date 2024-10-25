@@ -3,7 +3,7 @@ layout: '../../layouts/Markdown.astro'
 title : 'Astro'
 pubDate : 21 Octaber 2024
 info : 'Astro is web framework'
-cover : '/what.png'
+cover : '/mai/what.png'
 ---
 
 ## What is Astro?
